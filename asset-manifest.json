@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/jafafolio/static/css/main.32968913.css",
+    "main.js": "/jafafolio/static/js/main.60a2f997.js",
+    "static/media/casaride.png": "/jafafolio/static/media/casaride.80f2938f1b1fde944349.png",
+    "static/media/profil.png": "/jafafolio/static/media/profil.35a365b32463ecf01c97.png",
+    "static/media/rachid-moto-canada.png": "/jafafolio/static/media/rachid-moto-canada.638dae06bcf8b4c37cdd.png",
+    "static/media/projet-ecom.png": "/jafafolio/static/media/projet-ecom.653a766c51937baece80.png",
+    "static/media/arski-pat.png": "/jafafolio/static/media/arski-pat.f5588712881f6b85336b.png",
+    "static/media/RACHID JAFA.pdf": "/jafafolio/static/media/RACHID JAFA.5bdf66a3120bb098cdc0.pdf",
+    "static/media/php.png": "/jafafolio/static/media/php.4990580e9b615aeebb1f.png",
+    "static/media/postgresql.png": "/jafafolio/static/media/postgresql.543d2f68d70043ec73ee.png",
+    "static/media/react.png": "/jafafolio/static/media/react.748a2a12e1688ebe9da5.png",
+    "static/media/script-java.png": "/jafafolio/static/media/script-java.78206ba65e01c7d57080.png",
+    "static/media/mysql.png": "/jafafolio/static/media/mysql.138af6ce65cd59a39782.png",
+    "static/media/html-5.png": "/jafafolio/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
+    "static/media/gitlab.png": "/jafafolio/static/media/gitlab.12222677fd791345f9d1.png",
+    "static/media/figma.png": "/jafafolio/static/media/figma.738add6736dde780a845.png",
+    "static/media/css-3.png": "/jafafolio/static/media/css-3.4a6549b8c2b4cda8bb88.png",
+    "static/media/python.png": "/jafafolio/static/media/python.9c47735ea0c4a2d20349.png",
+    "index.html": "/jafafolio/index.html",
+    "main.32968913.css.map": "/jafafolio/static/css/main.32968913.css.map",
+    "main.60a2f997.js.map": "/jafafolio/static/js/main.60a2f997.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32968913.css",
+    "static/js/main.60a2f997.js"
+  ]
+}
