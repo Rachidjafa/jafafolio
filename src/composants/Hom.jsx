@@ -144,7 +144,7 @@ export default function Hom() {
                 <span id="casa">Casa</span>
                 <span id="shop">Shop</span>
               </h1>
-              <Link to="https://rachidjafa.github.io/Casashop/" target="_blank">
+              <Link to="https://rachidjafa.github.io/casashop-eco/" target="_blank">
                 <img src={projet1} alt="" width="500px" id="pro-1" />
               </Link>
             </div>
